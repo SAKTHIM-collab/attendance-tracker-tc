@@ -1,11 +1,11 @@
-#Attendance Tracking App (TC induction)
+# Attendance Tracking App (TC induction)
 
 
 (scroll down for website link and demo video)
 
 A responsive web application built with React and Firebase to help users track their attendance for various subjects and time slots, with features for managing schedules, viewing statistics, and automatic location-based marking.
 
-##Features
+## Features
 
 User Authentication: Secure sign-up and login using email and password (Firebase Authentication).
 
@@ -55,7 +55,7 @@ Cloud Firestore
 
 Firebase Hosting
 
-##Usage
+## Usage
 
 Sign Up/Login: Create a new account or log in with an existing one.
 
@@ -69,7 +69,7 @@ Settings: Adjust your minimum required attendance percentage.
 
 Automatic Attendance: Ensure your browser's location services are enabled for the app to automatically mark attendance when you are at a scheduled location during the class time.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or find any bugs, please open an issue or submit a pull request.
 
@@ -79,4 +79,4 @@ website link : https://mapw-5bc07.web.app/
 demo video : https://drive.google.com/file/d/1h9_d-Y7ln2hak9FWgPS63RlKul-3DCBO/view?usp=gmail
 
 
-#THANK YOU!
+# THANK YOU!
