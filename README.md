@@ -35,7 +35,8 @@ Responsive Design: Optimized for seamless experience on both desktop and mobile 
 
 Real-time Data: Data synchronized in real-time using Cloud Firestore.
 
-##Technologies Used
+
+## Technologies Used
 
 Frontend:
 
@@ -55,6 +56,7 @@ Cloud Firestore
 
 Firebase Hosting
 
+
 ## Usage
 
 Sign Up/Login: Create a new account or log in with an existing one.
@@ -69,6 +71,7 @@ Settings: Adjust your minimum required attendance percentage.
 
 Automatic Attendance: Ensure your browser's location services are enabled for the app to automatically mark attendance when you are at a scheduled location during the class time.
 
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or find any bugs, please open an issue or submit a pull request.
@@ -77,6 +80,7 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 website link : https://mapw-5bc07.web.app/
 
 demo video : https://drive.google.com/file/d/1h9_d-Y7ln2hak9FWgPS63RlKul-3DCBO/view?usp=gmail
+
 
 
 # THANK YOU!
