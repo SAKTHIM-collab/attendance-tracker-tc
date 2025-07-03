@@ -1,0 +1,51 @@
+node_modules/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.npm/
+.yarn/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build output (Vite specific)
+dist/
+
+# Firebase specific files (if you used firebase init)
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+.firebaserc
+# You might want to include firebase.json if you manage rules from console only
+# but generally it's good to keep it if you manage rules locally.
+# For now, let's assume you keep firebase.json.
+
+# macOS specific files
+.DS_Store
+
+# npm package manager cache
+.npm/
+
+# yarn package manager cache
+.yarn/
+
+# pnpm package manager cache
+.pnpm-store/
+
+# Vercel deployment files
+.vercel/
+
+# Next.js build output (if you were using Next.js, not directly applicable here but common)
+.next/
+
